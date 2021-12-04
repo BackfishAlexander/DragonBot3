@@ -1,0 +1,9 @@
+*.class
+*.gradle
+*.lock
+*.xml
+*.bin
+*.properties
+*.bat
+token.txt
+
